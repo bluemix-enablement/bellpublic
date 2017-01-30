@@ -1,0 +1,4 @@
+# Created by .ignore support plugin (hsz.mobi)
+# mao 2017-Jan-17 ignore intelliJ project files, I think this is the right thing to do
+.idea/
+*.iml
