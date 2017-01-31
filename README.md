@@ -11,4 +11,5 @@
    - [Setup cloudant](02-01-03-cloud-data-services/using-cloudant.md)
    - [Setup Secure Gateway](02-02-hybrid-cloud/secure-gateway-001.md)
    - [Setup mysql container](02-02-hybrid-cloud/secure-gateway-002.md)
+   - [Docker on Blumix w/o docker local](02-02-hybrid-cloud/docker-bmx-build.md)
 
